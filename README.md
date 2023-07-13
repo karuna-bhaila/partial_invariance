@@ -20,5 +20,5 @@ Refer to the `ipynb` file for an example run.
 Run all cells in the `chi_square_difference_testing.ipynb` file.
 
 ## Results
-The results will be stored in two files for each constant factor loading: `results_<*fixed loading*>_<*input filename*>` and `summary_<*fixed loading*>_<*input filename*>` in the `results` folder.
+The results will be stored in two files for each constant factor loading: `results\_<_fixed loading_>\_<*input filename*>` and `summary_<*fixed loading*>_<*input filename*>` in the `results` folder.
 The `results_<*fixed loading*>_<*input filename*>` file contains individual search results for each scenario, and the `summary_<*fixed loading*>_<*input filename*>` file contains the sum of the results from all scenarios.
