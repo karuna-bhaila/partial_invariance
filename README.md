@@ -6,8 +6,8 @@ All code required to run the tests is in the `chi_square_difference_testing.ipyn
 - The code is in python notebook format. Use jupyter notebook to run.
 - Install the following packages via pip/conda.
 
-    numpy==1.21.5
-    pandas==1.4.2
+        numpy==1.21.5
+        pandas==1.4.2
 
 ## Test Data
 - Place your file containing chi-square values of all factor loadings in the `data` folder.
