@@ -23,8 +23,8 @@ Install the following packages via pip/conda.
 | fixed_loading    | String indicating the factor that is always constrained           |
 | thr              | Threshold value for difference testing (3.8415) |
   
-- Refer to the `.ipynb` file for an example run.
-- Run all cells in the `chi_square_difference_testing.ipynb` file.
+- Run all cells in the `chi_square_difference_testing.ipynb` file as is to implement tests for the `L2355merged.csv` file.
+- Change the variables above to run tests on your data.
 
 ## Results
 - The results will be stored in two files for each constant factor loading: `results_${input filename}_${fixed loading}` and `summary_${input filename}_${fixed loading}` in the `results` folder.
