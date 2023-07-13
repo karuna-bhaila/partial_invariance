@@ -3,7 +3,8 @@
 All code required to run the tests is in the `chi_square_difference_testing.ipynb` file.
 
 ## Requirements
-Install the following packages via pip/conda.
+- The code is in python notebook format. Use jupyter notebook to run.
+- Install the following packages via pip/conda.
 
     numpy==1.21.5
     pandas==1.4.2
@@ -28,5 +29,5 @@ Install the following packages via pip/conda.
 
 ## Results
 - The results will be stored in two files for each constant factor loading: `results_${input filename}_${fixed loading}` and `summary_${input filename}_${fixed loading}` in the `results` folder.
-- The `results_${input filename}_${fixed loading}` file contains individual search results for each scenario.
-- The `summary_${input filename}_${fixed loading}` file contains the sum of the results from all scenarios.
+- The `results_${input filename}_${fixed loading}` file contains individual search results for each simulation.
+- The `summary_${input filename}_${fixed loading}` file contains the sum of the results from all simulations.
