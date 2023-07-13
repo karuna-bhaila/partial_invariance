@@ -23,7 +23,7 @@ Install the following packages via pip/conda.
 | fixed_loading    | String indicating the factor that is always constrained           |
 | thr              | Threshold value for difference testing (3.8415) |
   
-- Refer to the `ipynb` file for an example run.
+- Refer to the `.ipynb` file for an example run.
 - Run all cells in the `chi_square_difference_testing.ipynb` file.
 
 ## Results
