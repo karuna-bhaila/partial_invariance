@@ -28,6 +28,6 @@ All code required to run the tests is in the `chi_square_difference_testing.ipyn
 - Change the variables above to run tests on your data.
 
 ## Results
-- The results will be stored in two files for each constant factor loading: `results_${input filename}_${fixed loading}` and `summary_${input filename}_${fixed loading}` in the `results` folder.
-- The `results_${input filename}_${fixed loading}` file contains individual search results for each simulation.
-- The `summary_${input filename}_${fixed loading}` file contains the sum of the results from all simulations.
+- The results will be stored in two files for each constant factor loading: `${input filename}_${fixed loading}_results` and `${input filename}_${fixed loading}_summary` in the `results` folder.
+- The `${input filename}_${fixed loading}_results` file contains individual search results for each simulation.
+- The `${input filename}_${fixed loading}_summary` file contains the sum of the results from all simulations.
